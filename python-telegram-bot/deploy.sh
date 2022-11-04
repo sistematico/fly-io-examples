@@ -1,0 +1,1 @@
+flyctl deploy --app nome_do_bot -r gru --remote-only --no-cache --detach
